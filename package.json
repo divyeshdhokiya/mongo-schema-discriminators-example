@@ -1,5 +1,5 @@
 {
-  "name": "mongo-schema-discriminators-example",
+  "name": "mongoose-schema-discriminators-example",
   "version": "0.0.0",
   "private": true,
   "scripts": {
