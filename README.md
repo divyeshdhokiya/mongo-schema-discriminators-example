@@ -7,6 +7,7 @@ I am assuming you have mongodb running on `127.0.0.1:27017`
 
 ### To Run the Code
 ```sh
+npm i
 npx nodemon ./bin/www
 ```
 
